@@ -1,16 +1,18 @@
 ---
-name: Standup Meeting Template
-about: Go through this week’s lab and breakdown tasks.
-title: 'Standup Meeting Template'
+Name: Standup Meeting Template
+About: Go through this week’s lab and breakdown tasks.
+Title: 'Lab 3 Standup Meeting Template'
 assignees: 'Jeffrey Do'
 
 ---
 
-**Date:** 04-23/2024
+**Date:** 04/23/2024
+
 **Time:** 4PM-5PM
+
 **Location:** Computer Science Building
 
-## Attendace
+## Attendance
 - Jeffrey Do!!!
 
 ##  Today's Agenda
