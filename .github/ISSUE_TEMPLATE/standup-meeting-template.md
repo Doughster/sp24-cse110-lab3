@@ -1,6 +1,6 @@
 ---
-Name: Standup Meeting Template
-About: Go through this week’s lab and breakdown tasks.
+name: Standup Meeting Template
+about: Go through this week’s lab and breakdown tasks.
 Title: 'Lab 3 Standup Meeting Template'
 assignees: 'Jeffrey Do'
 
