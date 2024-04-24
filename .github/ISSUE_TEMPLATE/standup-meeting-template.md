@@ -1,9 +1,8 @@
 ---
 name: Standup Meeting Template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+about: Go through this week’s lab and breakdown tasks.
+title: 'Standup Meeting Template'
+assignees: 'Jeffrey Do'
 
 ---
 
